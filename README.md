@@ -14,6 +14,10 @@ Vamos explorar juntos as possibilidades da computação! 🚀🌟 #CuriousMind #
 
 [![Eleuterio Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EleuterioZM&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+### Linguagens Mais Utilizadas:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EleuterioZM&layout=compact&theme=radical)](https://github.com/junior_mabecuane)
+
 ### Tecnologias:
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
