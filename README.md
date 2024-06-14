@@ -41,4 +41,4 @@ Vamos explorar juntos as possibilidades da computação! 🚀🌟 #CuriousMind #
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-**Apaixonado por tecnologia**.
+**Eleuterio Zacarias Mabecuane**.
