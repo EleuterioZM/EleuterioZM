@@ -1,6 +1,11 @@
 👋 E aí! Eu sou Eleutério Zacarias Mabecuane, um entusiasta da Informática de Sistemas em busca de desafios empolgantes e oportunidades para crescer. Estudante no ISCIM, Moçambique, estou sempre explorando novas tecnologias e aprendendo novas habilidades. Conecte-se comigo para trocar ideias e colaborar em projetos interessantes:
+
+
+
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/2LTLJ2kSt1qFKXbH/?mibextid=qi2Omg)
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/ICKLYOIN72LPO1)
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/junior_mabecuane?igsh=dWZ3ZmNlMnJqNXlj)
 
 
