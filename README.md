@@ -8,8 +8,9 @@
 Vamos explorar juntos as possibilidades da computação! 🚀🌟 #CuriousMind #TechExplorer #OpenSourceEnthusiast
 ### Entre em contato:
 
-[![E-mail](https://img.icons8.com/fluency/32/000000/email-open.png)](mailto:juniormabecuane7@gmail.com)
-[![Telefone](https://img.icons8.com/fluency/32/000000/phone--v2.png)](tel:+258844318136)
+[![E-mail](https://img.shields.io/badge/Email-juniormabecuane7%40gmail.com-blue?style=for-the-badge&logo=Gmail)](mailto:juniormabecuane7@gmail.com)
+[![Telefone](https://img.shields.io/badge/Telefone-%2B258844318136-blue?style=for-the-badge&logo=Phone)](tel:+258844318136)
+
 
 
 ### Estatísticas do GitHub:
