@@ -1,14 +1,16 @@
 👋 E aí! Eu sou Eleutério Zacarias Mabecuane, um entusiasta da Informática de Sistemas em busca de desafios empolgantes e oportunidades para crescer. Estudante no ISCIM, Moçambique, estou sempre explorando novas tecnologias e aprendendo novas habilidades. Conecte-se comigo para trocar ideias e colaborar em projetos interessantes:
 
-[![Facebook](https://img.icons8.com/color/32/000000/facebook.png)](https://www.facebook.com/share/2LTLJ2kSt1qFKXbH/?mibextid=qi2Omg) 
-[![WhatsApp](https://img.icons8.com/color/32/000000/whatsapp.png)](https://wa.me/qr/ICKLYOIN72LPO1) 
+[![Facebook](https://img.icons8.com/color/32/000000/facebook.png)](https://www.facebook.com/share/2LTLJ2kSt1qFKXbH/?mibextid=qi2Omg)
+[![WhatsApp](https://img.icons8.com/color/32/000000/whatsapp.png)](https://wa.me/qr/ICKLYOIN72LPO1)
 [![Instagram](https://img.icons8.com/color/32/000000/instagram-new.png)](https://www.instagram.com/junior_mabecuane?igsh=dWZ3ZmNlMnJqNXlj)
+
 
 Vamos explorar juntos as possibilidades da computação! 🚀🌟 #CuriousMind #TechExplorer #OpenSourceEnthusiast
 ### Entre em contato:
 
-[![E-mail](https://img.shields.io/badge/Email-juniormabecuane7@gmail.com-blue)]()
-[![Telefone](https://img.shields.io/badge/Telefone-+258844318136-blue)]()
+[![E-mail](https://img.icons8.com/fluency/32/000000/email-open.png)](mailto:juniormabecuane7@gmail.com)
+[![Telefone](https://img.icons8.com/fluency/32/000000/phone--v2.png)](tel:+258844318136)
+
 
 ### Estatísticas do GitHub:
 
