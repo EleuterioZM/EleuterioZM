@@ -15,7 +15,7 @@ Vamos explorar juntos as possibilidades da computação! 🚀🌟 #CuriousMind #
 
 [![E-mail](https://img.shields.io/badge/Email-juniormabecuane7%40gmail.com-blue?style=for-the-badge&logo=Gmail)](mailto:juniormabecuane7@gmail.com)
 
-[![Telefone](https://img.shields.io/badge/Telefone-%2B258844318136-blue?style=for-the-badge&logo=Phone)](tel:+258844318136)
+[![Telefone](https://img.shields.io/badge/Telefone-%2B258844318136-blue?style=for-the-badge&logo=Phone)](tel:+258844318136/+258824201213)
 
 
 
