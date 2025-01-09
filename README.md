@@ -46,3 +46,4 @@ Vamos explorar juntos as possibilidades da computação! 🚀🌟 #CuriousMind #
 
 
 **Eleuterio Zacarias Mabecuane**.
+[![Eleuterio Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=EleuterioZM&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
