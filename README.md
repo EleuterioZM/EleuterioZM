@@ -9,7 +9,6 @@ Estou sempre à procura de aprender, explorar novas tecnologias e enfrentar novo
 ### 🌐 Redes Sociais:
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/2LTLJ2kSt1qFKXbH/?mibextid=qi2Omg)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/ICKLYOIN72LPO1)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/junior_mabecuane?igshid=dWZ3ZmNlMnJqNXlj)  
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Eleuterio_ZM)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-nome-personalizado/)
 
@@ -46,6 +45,7 @@ Estou sempre à procura de aprender, explorar novas tecnologias e enfrentar novo
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-005F8D?style=for-the-badge&logo=go&logoColor=white)
 
 
 ---
