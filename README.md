@@ -18,6 +18,7 @@ Estou sempre à procura de aprender, explorar novas tecnologias e enfrentar novo
 ### ✉️ Entre em Contato:
 [![E-mail](https://img.shields.io/badge/Email-juniormabecuane7%40gmail.com-blue?style=for-the-badge&logo=Gmail)](mailto:juniormabecuane7@gmail.com)  
 [![Telefone](https://img.shields.io/badge/Telefone-%2B258844318136-blue?style=for-the-badge&logo=Phone)](tel:+258844318136)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eleuteriozm)
 
 ---
 
@@ -48,9 +49,20 @@ Estou sempre à procura de aprender, explorar novas tecnologias e enfrentar novo
 ![Go](https://img.shields.io/badge/Go-005F8D?style=for-the-badge&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
+## 📜 Certificações & Cursos
+
+- Python, Cloud Fundamentals, Gestão de Infraestrutura de TI, DevOps & Agile Culture, Engenharia de Software (FIAP)
+- Internet das Coisas (MIT Professional Education)
+- Introdução à Ciência de Dados (Santander/IE University)
+- Cybersecurity e Ethical Hacking (Empire Cyber Security)
+- Node.js, Go (Cursa, Mundo Tech Software)
+- Metodologias Ágeis, Product Owner & Scrum Master (Udemy)
+- MOOC English Online 1, Canvas: Desenhando seu projeto como negócio (Centro Paula Souza)
+- Java Básico (RL System)
+- Outros cursos e treinamentos em tecnologia, segurança, negócios e inovação.
 
 
 ---
 
 💡 Vamos explorar juntos as infinitas possibilidades da tecnologia! 🌟  
-#CuriousMind #TechExplorer #OpenSourceEnthusiast  
+**#CuriousMind #TechExplorer #OpenSourceEnthusiast**
