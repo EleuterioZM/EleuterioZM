@@ -1,6 +1,6 @@
 # 👨‍💻 Eleutério Zacarias Mabecuane
 
-**Estudante de Informática de Sistemas | ISCIM, Moçambique** *Focado em Engenharia de Software, Cloud Computing e Cibersegurança.*
+**Estudante de Informática de Sistemas | ISCIM, Moçambique** *Focado em Engenharia de Software*
 
 ---
 
@@ -11,6 +11,13 @@ Sou um entusiasta de tecnologia e estudante de **Informática de Sistemas** no *
 * 🌍 Localização: Moçambique
 * 🎓 Instituição: Instituto Superior de Comunicação e Imagem de Moçambique (ISCIM)
 * 🚀 Objectivo: Colaboração em projectos de impacto e desenvolvimento de software escalável.
+
+---
+<p align="left">
+  <a href="https://eleuterio-zacarias-mabecuane-portfo.vercel.app/">
+    <img src="https://img.shields.io/badge/MEU%20PORTFÓLIO-Aceder%20Agora-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
