@@ -19,20 +19,28 @@
 </p>
 
 <!-- ═══════════════════════════ WHOAMI ═══════════════════════════ -->
-## `$ whoami`
+## 👨‍💻 Sobre mim
 
-```ts
-const eleuterio = {
-  local:        "Maputo, Moçambique 🇲🇿",
-  cargo:        "Auditor Interno Júnior de Sistemas de Informação @ mKesh Carteira Móvel",
-  formacao:     "Licenciatura em Informática de Sistemas — ISCIM ✅",
-  freelance:    "Desenvolvedor de sistemas web & mobile desde 2023",
-  duplaFace:    ["🛡️ Audito sistemas", "⚙️ Construo sistemas"],
-  focoAgora:    ["ISO/IEC 27001", "Gestão de riscos de TI", "Apps em produção", "Go & Cloud"],
-  certificacoes: 23,
-  lema:         "Segurança não é um produto, é um processo — e código também.",
-};
-```
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ De dia — audito sistemas</h4>
+      <b>Auditor Interno Júnior de Sistemas de Informação</b> na <b>mKesh Carteira Móvel</b>.<br/>
+      Avalio controlos tecnológicos, conformidade e riscos de TI em processos críticos de uma carteira móvel.
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ De noite — construo sistemas</h4>
+      <b>Desenvolvedor freelancer desde 2023</b>.<br/>
+      Apps móveis, sistemas de gestão e sites que estão em produção, usados por gente real em Moçambique.
+    </td>
+  </tr>
+</table>
+
+- 📍 **Maputo, Moçambique** 🇲🇿
+- 🎓 **Licenciatura em Informática de Sistemas — ISCIM** ✅ concluída
+- 🔭 **Foco agora:** ISO/IEC 27001 · Gestão de riscos de TI · Apps em produção · Go & Cloud
+- 📜 **23 certificações** em segurança, auditoria, cloud e desenvolvimento
+- 💬 *"Segurança não é um produto, é um processo — e código também."*
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 ## 🚀 Em produção — gente real a usar
@@ -149,7 +157,7 @@ const eleuterio = {
   <img src="https://streak-stats.demolab.com?user=EleuterioZM&hide_border=true&background=0d1117&ring=24C6DC&fire=24C6DC&currStreakLabel=24C6DC&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&locale=pt_BR" />
 </p>
 <p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=EleuterioZM&bg_color=0d1117&color=24C6DC&line=302b63&point=ffffff&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20nos%20%C3%BAltimos%2031%20dias" />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EleuterioZM&theme=github_dark" />
 </p>
 
 <!-- ═══════════════════════════ SNAKE ═══════════════════════════ -->
