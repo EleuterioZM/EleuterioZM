@@ -19,28 +19,54 @@
 </p>
 
 <!-- ═══════════════════════════ WHOAMI ═══════════════════════════ -->
-## 👨‍💻 Sobre mim
+## `$ whoami`
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛡️ De dia — audito sistemas</h4>
-      <b>Auditor Interno Júnior de Sistemas de Informação</b> na <b>mKesh Carteira Móvel</b>.<br/>
-      Avalio controlos tecnológicos, conformidade e riscos de TI em processos críticos de uma carteira móvel.
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ De noite — construo sistemas</h4>
-      <b>Desenvolvedor freelancer desde 2023</b>.<br/>
-      Apps móveis, sistemas de gestão e sites que estão em produção, usados por gente real em Moçambique.
-    </td>
-  </tr>
-</table>
+```ts
+import { Auditor, Developer, Mozambique } from "@life/2026";
 
-- 📍 **Maputo, Moçambique** 🇲🇿
-- 🎓 **Licenciatura em Informática de Sistemas — ISCIM** ✅ concluída
-- 🔭 **Foco agora:** ISO/IEC 27001 · Gestão de riscos de TI · Apps em produção · Go & Cloud
-- 📜 **23 certificações** em segurança, auditoria, cloud e desenvolvimento
-- 💬 *"Segurança não é um produto, é um processo — e código também."*
+/**
+ * 🛡️ De dia audito sistemas. ⚙️ De noite construo-os.
+ * Quem sabe como os sistemas falham, constrói sistemas que não falham.
+ */
+class Eleuterio extends Auditor implements Developer {
+  readonly local     = Mozambique.Maputo;                        // 🇲🇿
+  readonly cargo     = "Auditor Interno Júnior de SI @ mKesh";    // Fev 2026 → hoje
+  readonly formacao  = { curso: "Informática de Sistemas", escola: "ISCIM", status: "✅ concluída" };
+  readonly freelance = { desde: 2023, entregas: ["📱 Apps na Play Store", "🩸 SISANGUE", "🎙️ Tu Pra Tu"] };
+
+  private certificacoes = 23;
+  private cafe          = Infinity;  // ☕ dependência crítica, sem fallback
+
+  stack() {
+    return {
+      backend:  ["Java", "Spring Boot", "Go", "Python", "Node.js", "Laravel"],
+      frontend: ["React", "TypeScript", "Tailwind"],
+      mobile:   ["React Native", "Expo", "Flutter"],
+      dados:    ["PostgreSQL", "MySQL", "MongoDB"],
+      devops:   ["Docker", "GitHub Actions", "Vercel"],
+    };
+  }
+
+  auditar(sistema: Sistema): Relatorio {
+    return sistema
+      .avaliarControlos("ISO/IEC 27001")
+      .avaliarPrivacidade("ISO/IEC 27701")
+      .mapearRiscos()
+      .recomendarMelhorias();   // 🔍 encontrar o bug antes do atacante
+  }
+
+  async construir(ideia: Ideia): Promise<Producao> {
+    const app = await ideia.desenhar().codificar().testar();
+    return app.deploy({ ci: true, seguro: true });   // 🚀 secure by design
+  }
+
+  get lema() {
+    return "Segurança não é um produto, é um processo — e código também.";
+  }
+}
+
+export default new Eleuterio();  // 🤝 disponível para colaborar
+```
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
 ## 🚀 Em produção — gente real a usar
