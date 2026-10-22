@@ -22,50 +22,16 @@
 ## `$ whoami`
 
 ```ts
-import { Auditor, Developer, Mozambique } from "@life/2026";
-
-/**
- * 🛡️ De dia audito sistemas. ⚙️ De noite construo-os.
- * Quem sabe como os sistemas falham, constrói sistemas que não falham.
- */
-class Eleuterio extends Auditor implements Developer {
-  readonly local     = Mozambique.Maputo;                        // 🇲🇿
-  readonly cargo     = "Auditor Interno Júnior de SI @ mKesh";    // Fev 2026 → hoje
-  readonly formacao  = { curso: "Informática de Sistemas", escola: "ISCIM", status: "✅ concluída" };
-  readonly freelance = { desde: 2023, entregas: ["📱 Apps na Play Store", "🩸 SISANGUE", "🎙️ Tu Pra Tu"] };
-
-  private certificacoes = 23;
-  private cafe          = Infinity;  // ☕ dependência crítica, sem fallback
-
-  stack() {
-    return {
-      backend:  ["Java", "Spring Boot", "Go", "Python", "Node.js", "Laravel"],
-      frontend: ["React", "TypeScript", "Tailwind"],
-      mobile:   ["React Native", "Expo", "Flutter"],
-      dados:    ["PostgreSQL", "MySQL", "MongoDB"],
-      devops:   ["Docker", "GitHub Actions", "Vercel"],
-    };
-  }
-
-  auditar(sistema: Sistema): Relatorio {
-    return sistema
-      .avaliarControlos("ISO/IEC 27001")
-      .avaliarPrivacidade("ISO/IEC 27701")
-      .mapearRiscos()
-      .recomendarMelhorias();   // 🔍 encontrar o bug antes do atacante
-  }
-
-  async construir(ideia: Ideia): Promise<Producao> {
-    const app = await ideia.desenhar().codificar().testar();
-    return app.deploy({ ci: true, seguro: true });   // 🚀 secure by design
-  }
-
-  get lema() {
-    return "Segurança não é um produto, é um processo — e código também.";
-  }
-}
-
-export default new Eleuterio();  // 🤝 disponível para colaborar
+const eleuterio = {
+  local:         "Maputo, Moçambique 🇲🇿",
+  cargo:         "Auditor Interno Júnior de Sistemas de Informação @ mKesh Carteira Móvel",
+  formacao:      "Licenciatura em Informática de Sistemas — ISCIM ✅",
+  freelance:     "Desenvolvedor de sistemas web & mobile desde 2023",
+  duplaFace:     ["🛡️ Audito sistemas", "⚙️ Construo sistemas"],
+  focoAgora:     ["ISO/IEC 27001", "Gestão de riscos de TI", "Apps em produção", "Go & Cloud"],
+  certificacoes: 23,
+  lema:          "Segurança não é um produto, é um processo — e código também.",
+};
 ```
 
 <!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
